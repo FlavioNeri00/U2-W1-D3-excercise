@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Roboto:wght@400;700&family=Spectral:wght@400;700&display=swap");
+
+@media screen and (max-width: 950px) {
+  .article {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+    background-color: #fbf7e3;
+    padding: 34px;
+    font-family: "Roboto", sans-serif;
+    color: #612406;
+    border-radius: 65px;
+  }
+
+  .text {
+    margin-bottom: 60px;
+  }
+}
+
+.article {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #fbf7e3;
+  padding: 34px;
+  font-family: "Roboto", sans-serif;
+  color: #612406;
+  border-radius: 65px;
+}
+
+.text {
+  margin-left: 23px;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+.head-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

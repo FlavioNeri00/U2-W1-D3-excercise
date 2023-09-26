@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Roboto:wght@400;700&family=Spectral:wght@400;700&display=swap");
+
+body {
+  color: #612406;
+  font-family: "Roboto", sans-serif;
+}
+
+.main-div {
+  width: 209px;
+
+  border-radius: 65px;
+  height: 265px;
+  background-color: #fbf7e3;
+}
+
+.img {
+  width: 209px;
+  border-top-left-radius: 65px;
+  border-top-right-radius: 65px;
+}
+
+p {
+  margin: 0;
+}
+
+.bio {
+}
+
+.my-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.major-div {
+  margin-top: 23px;
+}
+
+.my-price {
+  display: flex;
+}
+
+.p {
+  margin-top: 13px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin-block-start: 20px;
+}
+
+button {
+  color: #612406;
+  border-radius: 11px;
+  padding-inline: 20px;
+  padding-block: 4px;
+  background-color: #f3df85;
+  font-family: "Roboto", sans-serif;
+}
+
+.product {
+  font-weight: 700;
+}

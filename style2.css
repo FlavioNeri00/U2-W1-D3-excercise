@@ -11,6 +11,7 @@ body {
   border-radius: 65px;
   height: 265px;
   background-color: #fbf7e3;
+  margin-block-end: 13px;
 }
 
 .img {
